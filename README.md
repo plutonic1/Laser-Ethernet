@@ -12,6 +12,6 @@ ToDo: Add schematics
 
 ## Sources
 
-[http://blog.svenbrauch.de/2017/02/19/homemade-10-mbits-laser-optical-ethernet-transceiver/]
-[https://www.mikrocontroller.net/articles/Lichtsensor_/_Helligkeitssensor]
-[https://vjordan.info/log/fpga/raspberry-pi-3-ethernet-over-serial.html]
+http://blog.svenbrauch.de/2017/02/19/homemade-10-mbits-laser-optical-ethernet-transceiver/
+https://www.mikrocontroller.net/articles/Lichtsensor_/_Helligkeitssensor
+https://vjordan.info/log/fpga/raspberry-pi-3-ethernet-over-serial.html
