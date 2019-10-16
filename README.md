@@ -9,6 +9,8 @@ I tried to connect 2 Raspberry PIs via serial connection using pppd (see sources
 with a simple laser transceiver. Transmission speed was ~10-20 kBit/s.
 ToDo: Add schematics
 
+![picture of the Raspberry Pi experiment](https://raw.githubusercontent.com/plutonic1/Laser-Ethernet/master/images/rpi_experiment.jpg "picture of the Raspberry Pi experiment")
+
 
 ## Sources
 
